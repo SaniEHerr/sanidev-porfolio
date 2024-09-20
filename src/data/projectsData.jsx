@@ -2,7 +2,7 @@
 import techLibraryImg from "../assets/images/projects/techLibrary/techLibraryImg.png";
 
 // Rascloud
-import rasCloudImg from "../assets/images/projects/rascloud/rasCloudImg.png";
+import rasCloudImg from "../assets/images/projects/rasCloud/rasCloudImg.png";
 
 // RombNotes
 import rombNotesImg from "../assets/images/projects/rombNotes/rombNotesImg.png";
